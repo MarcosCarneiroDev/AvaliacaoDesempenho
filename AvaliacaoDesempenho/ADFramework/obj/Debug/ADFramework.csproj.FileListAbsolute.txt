@@ -1,0 +1,15 @@
+F:\Projetos\GitHub\AvaliacaoDesempenho\AvaliacaoDesempenho\ADFramework\bin\Debug\ADFramework.dll
+F:\Projetos\GitHub\AvaliacaoDesempenho\AvaliacaoDesempenho\ADFramework\bin\Debug\ADFramework.pdb
+F:\Projetos\GitHub\AvaliacaoDesempenho\AvaliacaoDesempenho\ADFramework\obj\Debug\ADFramework.dll
+F:\Projetos\GitHub\AvaliacaoDesempenho\AvaliacaoDesempenho\ADFramework\obj\Debug\ADFramework.pdb
+F:\Projetos\GitHub\AvaliacaoDesempenho\AvaliacaoDesempenho\ADFramework\obj\Debug\ADFramework.csprojResolveAssemblyReference.cache
+F:\Projetos\GitHub\SIA\AvaliacaoDesempenho\ADFramework\bin\Debug\ADFramework.dll
+F:\Projetos\GitHub\SIA\AvaliacaoDesempenho\ADFramework\bin\Debug\ADFramework.pdb
+F:\Projetos\GitHub\SIA\AvaliacaoDesempenho\ADFramework\obj\Debug\ADFramework.dll
+F:\Projetos\GitHub\SIA\AvaliacaoDesempenho\ADFramework\obj\Debug\ADFramework.pdb
+F:\Projetos\GitHub\SIA\AvaliacaoDesempenho\ADFramework\obj\Debug\ADFramework.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\SIA\AvaliacaoDesempenho\ADFramework\bin\Debug\ADFramework.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\SIA\AvaliacaoDesempenho\ADFramework\bin\Debug\ADFramework.pdb
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\SIA\AvaliacaoDesempenho\ADFramework\obj\Debug\ADFramework.csprojResolveAssemblyReference.cache
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\SIA\AvaliacaoDesempenho\ADFramework\obj\Debug\ADFramework.dll
+C:\Users\Marcos\Desktop\Mestrado Eng.Informática\SIA\AvaliacaoDesempenho\ADFramework\obj\Debug\ADFramework.pdb
